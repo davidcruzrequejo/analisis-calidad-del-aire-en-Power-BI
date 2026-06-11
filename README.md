@@ -11,4 +11,4 @@ Este proyecto transforma **datos abiertos** públicos en una herramienta interac
 * **Análisis Estadístico (DAX):** Creación de métricas personalizadas para calcular promedios móviles y alertas de superación de límites legales de gases.
 
 ## 📸 Vista Previa del Cuadro de Mando
-
+(dashboardteaser.gif)
