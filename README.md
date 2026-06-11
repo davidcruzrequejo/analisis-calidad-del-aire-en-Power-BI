@@ -10,5 +10,5 @@ Este proyecto transforma **datos abiertos** públicos en una herramienta interac
 * **Modelado de Datos (Power BI):** Creación de un modelo en estrella (*Star Schema*) eficiente para conectar estaciones de medición con reportes de contaminación.
 * **Análisis Estadístico (DAX):** Creación de métricas personalizadas para calcular promedios móviles y alertas de superación de límites legales de gases.
 
-## 📸 Vista Previa del Cuadro de Mando
-(dashboardteaser.gif)
+## 📸 Vista Previa del Dashboard interactivo
+![Dashboard Preview](dashboardteaser.gif)
